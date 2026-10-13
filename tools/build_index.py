@@ -222,7 +222,7 @@ def build(slices, total_w, total_h):
 <meta name="twitter:description" content="{PAGE_DESC}">
 <meta name="twitter:image" content="{SITE_URL}images/Design-Porto-1_01.gif">
 <link rel="preload" as="image" href="images/Design-Porto-1_01.gif">
-<link rel="icon" type="image/png" href="assets/png/Artboard 1.png">
+<link rel="icon" type="image/png" href="assets/png/Artboard%201.png">
 <style>
   :root {{ --page-bg: #ffffff; }}
   * {{ box-sizing: border-box; }}
