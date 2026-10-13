@@ -1,0 +1,432 @@
+{
+  "canvas": [
+    3508,
+    27281
+  ],
+  "slices": [
+    {
+      "src": "images/Design-Porto-1_01.gif",
+      "x": 0,
+      "y": 0,
+      "w": 3507,
+      "h": 7871,
+      "href": null
+    },
+    {
+      "src": "images/Design-Porto-1_02.gif",
+      "x": 0,
+      "y": 7871,
+      "w": 125,
+      "h": 9924,
+      "href": null
+    },
+    {
+      "src": "images/Design-Porto-1_03.gif",
+      "x": 125,
+      "y": 7871,
+      "w": 1405,
+      "h": 795,
+      "href": "https://youtu.be/0FtWLJWL70k?si=5AjqK1145sWnxaZn"
+    },
+    {
+      "src": "images/Design-Porto-1_04.gif",
+      "x": 1530,
+      "y": 7871,
+      "w": 393,
+      "h": 2484,
+      "href": null
+    },
+    {
+      "src": "images/Design-Porto-1_03-06.gif",
+      "x": 1923,
+      "y": 7871,
+      "w": 1429,
+      "h": 795,
+      "href": "https://youtu.be/Z2BtMB00tzA?si=bmbcwC8UQ5wWSc7P"
+    },
+    {
+      "src": "images/Design-Porto-1_06.gif",
+      "x": 3352,
+      "y": 7871,
+      "w": 155,
+      "h": 19409,
+      "href": null
+    },
+    {
+      "src": "images/Design-Porto-1_07.gif",
+      "x": 125,
+      "y": 8666,
+      "w": 1405,
+      "h": 1689,
+      "href": null
+    },
+    {
+      "src": "images/Design-Porto-1_08.gif",
+      "x": 1923,
+      "y": 8666,
+      "w": 1429,
+      "h": 1689,
+      "href": null
+    },
+    {
+      "src": "images/Design-Porto-1_09.gif",
+      "x": 125,
+      "y": 10355,
+      "w": 719,
+      "h": 2480,
+      "href": null
+    },
+    {
+      "src": "images/Design-Porto-1_10.jpg",
+      "x": 844,
+      "y": 10355,
+      "w": 1821,
+      "h": 988,
+      "href": "https://youtu.be/C_UndgZ5doM?si=pBMNlbqdfCNxzRbn"
+    },
+    {
+      "src": "images/Design-Porto-1_11.gif",
+      "x": 2665,
+      "y": 10355,
+      "w": 687,
+      "h": 2480,
+      "href": null
+    },
+    {
+      "src": "images/Design-Porto-1_12.gif",
+      "x": 844,
+      "y": 11343,
+      "w": 1821,
+      "h": 1492,
+      "href": null
+    },
+    {
+      "src": "images/Design-Porto-1_13.gif",
+      "x": 125,
+      "y": 12835,
+      "w": 339,
+      "h": 4960,
+      "href": null
+    },
+    {
+      "src": "images/Design-Porto-1_10.gif",
+      "x": 464,
+      "y": 12835,
+      "w": 843,
+      "h": 473,
+      "href": "https://youtu.be/Bk_ZNLWwW70?si=ITPXIL8eaKDdUdfE"
+    },
+    {
+      "src": "images/Design-Porto-1_15.gif",
+      "x": 1307,
+      "y": 12835,
+      "w": 816,
+      "h": 2480,
+      "href": null
+    },
+    {
+      "src": "images/Design-Porto-1_10-17.gif",
+      "x": 2123,
+      "y": 12835,
+      "w": 839,
+      "h": 473,
+      "href": "https://youtu.be/LeB83VM98c4?si=wy0ufcNY4EdgAcua"
+    },
+    {
+      "src": "images/Design-Porto-1_17.gif",
+      "x": 2962,
+      "y": 12835,
+      "w": 390,
+      "h": 515,
+      "href": null
+    },
+    {
+      "src": "images/Design-Porto-1_18.gif",
+      "x": 464,
+      "y": 13308,
+      "w": 843,
+      "h": 37,
+      "href": null
+    },
+    {
+      "src": "images/Design-Porto-1_19.gif",
+      "x": 2123,
+      "y": 13308,
+      "w": 839,
+      "h": 42,
+      "href": null
+    },
+    {
+      "src": "images/Design-Porto-1_16.gif",
+      "x": 464,
+      "y": 13345,
+      "w": 839,
+      "h": 479,
+      "href": "https://youtu.be/21cwigQwoyw?si=2WzlCmXLB5DUrZlm"
+    },
+    {
+      "src": "images/Design-Porto-1_21.gif",
+      "x": 1303,
+      "y": 13345,
+      "w": 4,
+      "h": 1970,
+      "href": null
+    },
+    {
+      "src": "images/Design-Porto-1_10-23.gif",
+      "x": 2123,
+      "y": 13350,
+      "w": 851,
+      "h": 474,
+      "href": "https://youtu.be/ToG9C8tKM30?si=DspykkwIuggneeiP"
+    },
+    {
+      "src": "images/Design-Porto-1_23.gif",
+      "x": 2974,
+      "y": 13350,
+      "w": 378,
+      "h": 7058,
+      "href": null
+    },
+    {
+      "src": "images/Design-Porto-1_24.gif",
+      "x": 464,
+      "y": 13824,
+      "w": 839,
+      "h": 1491,
+      "href": null
+    },
+    {
+      "src": "images/Design-Porto-1_25.gif",
+      "x": 2123,
+      "y": 13824,
+      "w": 851,
+      "h": 1491,
+      "href": null
+    },
+    {
+      "src": "images/Design-Porto-1_26.gif",
+      "x": 464,
+      "y": 15315,
+      "w": 416,
+      "h": 2480,
+      "href": null
+    },
+    {
+      "src": "images/Design-Porto-1_10-28.gif",
+      "x": 880,
+      "y": 15315,
+      "w": 1744,
+      "h": 979,
+      "href": "https://youtu.be/76OfLG3hh64?si=UAV1zwgCuZbEbLhq"
+    },
+    {
+      "src": "images/Design-Porto-1_28.gif",
+      "x": 2624,
+      "y": 15315,
+      "w": 350,
+      "h": 5093,
+      "href": null
+    },
+    {
+      "src": "images/Design-Porto-1_29.gif",
+      "x": 880,
+      "y": 16294,
+      "w": 1744,
+      "h": 1501,
+      "href": null
+    },
+    {
+      "src": "images/Design-Porto-1_30.gif",
+      "x": 0,
+      "y": 17795,
+      "w": 116,
+      "h": 9485,
+      "href": null
+    },
+    {
+      "src": "images/trailer.gif",
+      "x": 116,
+      "y": 17795,
+      "w": 633,
+      "h": 983,
+      "href": "https://www.instagram.com/reel/DU5Rn6UEkne/"
+    },
+    {
+      "src": "images/Design-Porto-1_32.gif",
+      "x": 749,
+      "y": 17795,
+      "w": 265,
+      "h": 2602,
+      "href": null
+    },
+    {
+      "src": "images/Design-Porto-1_11-34.gif",
+      "x": 1014,
+      "y": 17795,
+      "w": 628,
+      "h": 995,
+      "href": "https://www.instagram.com/reel/DVTQxSWkoF7/"
+    },
+    {
+      "src": "images/Design-Porto-1_34.gif",
+      "x": 1642,
+      "y": 17795,
+      "w": 304,
+      "h": 9485,
+      "href": null
+    },
+    {
+      "src": "images/Design-Porto-1_13-36.gif",
+      "x": 1946,
+      "y": 17795,
+      "w": 622,
+      "h": 983,
+      "href": "https://www.instagram.com/reel/DZPWFVhywD8/"
+    },
+    {
+      "src": "images/Design-Porto-1_36.gif",
+      "x": 2568,
+      "y": 17795,
+      "w": 56,
+      "h": 2613,
+      "href": null
+    },
+    {
+      "src": "images/Design-Porto-1_37.gif",
+      "x": 116,
+      "y": 18778,
+      "w": 633,
+      "h": 1619,
+      "href": null
+    },
+    {
+      "src": "images/Design-Porto-1_38.gif",
+      "x": 1946,
+      "y": 18778,
+      "w": 622,
+      "h": 1630,
+      "href": null
+    },
+    {
+      "src": "images/Design-Porto-1_39.gif",
+      "x": 1014,
+      "y": 18790,
+      "w": 628,
+      "h": 1607,
+      "href": null
+    },
+    {
+      "src": "images/Design-Porto-1_40.gif",
+      "x": 116,
+      "y": 20397,
+      "w": 12,
+      "h": 6883,
+      "href": null
+    },
+    {
+      "src": "images/video-documenter.gif",
+      "x": 128,
+      "y": 20397,
+      "w": 1434,
+      "h": 759,
+      "href": "https://youtu.be/M56OCl1zBw0?si=8dHpud0IPdiFCwCB"
+    },
+    {
+      "src": "images/Design-Porto-1_42.gif",
+      "x": 1562,
+      "y": 20397,
+      "w": 80,
+      "h": 6883,
+      "href": null
+    },
+    {
+      "src": "images/KERONCONG-TUGU.gif",
+      "x": 1946,
+      "y": 20408,
+      "w": 1402,
+      "h": 731,
+      "href": "https://www.youtube.com/live/lGFp0znl-MM?si=Iow_AyIIVwCMqz8s"
+    },
+    {
+      "src": "images/Design-Porto-1_44.gif",
+      "x": 3348,
+      "y": 20408,
+      "w": 4,
+      "h": 6872,
+      "href": null
+    },
+    {
+      "src": "images/Design-Porto-1_45.gif",
+      "x": 1946,
+      "y": 21139,
+      "w": 1402,
+      "h": 6141,
+      "href": null
+    },
+    {
+      "src": "images/Design-Porto-1_46.gif",
+      "x": 128,
+      "y": 21156,
+      "w": 1434,
+      "h": 2204,
+      "href": null
+    },
+    {
+      "src": "images/Design-Porto-1_47.gif",
+      "x": 128,
+      "y": 23360,
+      "w": 258,
+      "h": 757,
+      "href": null
+    },
+    {
+      "src": "images/Design-Porto-1_48.gif",
+      "x": 386,
+      "y": 23360,
+      "w": 443,
+      "h": 55,
+      "href": "https://wa.link/lrpvds"
+    },
+    {
+      "src": "images/Design-Porto-1_49.gif",
+      "x": 829,
+      "y": 23360,
+      "w": 733,
+      "h": 3920,
+      "href": null
+    },
+    {
+      "src": "images/Design-Porto-1_50.gif",
+      "x": 386,
+      "y": 23415,
+      "w": 443,
+      "h": 702,
+      "href": null
+    },
+    {
+      "src": "images/Design-Porto-1_51.gif",
+      "x": 128,
+      "y": 24117,
+      "w": 440,
+      "h": 54,
+      "href": "https://www.instagram.com/wan_lunari/"
+    },
+    {
+      "src": "images/Design-Porto-1_52.gif",
+      "x": 568,
+      "y": 24117,
+      "w": 261,
+      "h": 3163,
+      "href": null
+    },
+    {
+      "src": "images/Design-Porto-1_53.gif",
+      "x": 128,
+      "y": 24171,
+      "w": 440,
+      "h": 3109,
+      "href": null
+    }
+  ]
+}
