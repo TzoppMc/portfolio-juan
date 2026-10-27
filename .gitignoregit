@@ -1,1 +1,0 @@
-*.psd Design Porto 1.pdf rm --cached "Design Porto 1.psd" "Design Porto 1.pdf"git commit --amend -m "Initial portfolio"git push -u origin main
